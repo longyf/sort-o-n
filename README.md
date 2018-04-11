@@ -1,3 +1,4 @@
 # sort-o-n
 A sort method
-O(n).
+time: O(n).
+space: 常数大小
